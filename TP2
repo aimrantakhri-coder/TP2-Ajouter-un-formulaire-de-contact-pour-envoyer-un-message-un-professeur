@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mon ploi de temps</title>
+</head>
+<body>
+<div style="text-align: center;">
+    
+        <img src="WhatsApp Image 2026-03-24 at 22.22.58.jpeg"
+    </div>
+    <div>
+        <p style="text-align: right;" ><b>Annee Unversitaire 2025-2026</b></p>
+    </div>
+    <div style = "text-align: left;">
+        <img src="WhatsApp Image 2026-03-24 at 22.22.58 (1).jpeg"
+    </div>
+    <h2 align="center">emploi de temps</h2>
+<table border ="1">
+<tr>
+ <th>heure</th>
+ <th>8:00_9:30</th>
+ <th>9:30_11:00</th>
+ <th>11:00_12:30</th>
+ <th>12:30_14:00</th>
+ <th>14:00_15:30</th>
+ <th>15:30_17:00</th>
+</tr>
+
+<tr>
+    <td>lundi</td>
+    <td>python 2 <a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof M_laraqui</a></td>
+    <td>algorithme  <a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof H_oudani</a></td>
+    <td bgcolor="blak"></td>
+    <td>algoritme et c TD g1<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof H_oudani</a></td>
+    <td>python2 TD g3<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof A_elouardi</a></td>
+</tr>
+<tr>
+     <td>mardi</td>
+    <td>python 2 TD g1<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof A_elouardi</a></td>
+     <td bgcolor="blak"></td>
+    <td>digitale<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof A_elouardi</a</td>
+    <td>digitalle TD<a href="file:///C:/Users/HP/Desktop/html/message_prof.html"></a>prof A_elouardi</td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+</tr>
+<tr>
+     <td>mercredi</td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+    <td>algoritme et c TD g2<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof H_oudani</a></td>
+    <td>algébre2 TD<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof I_boutaayano</a></td>
+    <td>analyse2 TD <a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof A_hadri</a></td>
+</tr>
+<tr>
+     <td>jeudi</td>
+    <td>traitement de signal<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof H_azzahhafi</a></td>
+    <td>traitement de signal TD<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof H_azzahhafi</a></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+</tr>
+<tr> 
+     <td>vendredi</td>
+    <td>algébre2<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof I_boutaayano</a></td>
+    <td>analyse2<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof A_hadri</a></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+</tr>
+<tr>
+     <td>samedi</td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+     <td bgcolor="blak"></td>
+    <td>programation wibe1 TD g2<a href="file:///C:/Users/HP/Desktop/html/message_prof.html"></a>prof ....</td>
+    <td>progamation wibe1<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof K_omari</a></td>
+    <td>programation wibe1 TD g1<a href="file:///C:/Users/HP/Desktop/html/message_prof.html">prof K_omari</a></td>
+</tr>
+</body>
+</html>
